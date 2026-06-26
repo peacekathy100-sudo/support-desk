@@ -33,8 +33,7 @@ mix.styles([
        'public/assets/css/all.min.css',
        'public/assets/css/layout.min.css',
        'public/assets/css/components.min.css'
-   ], 'public/css/limitless-bundle.css')
-   .version();
+   ], 'public/css/limitless-bundle.css');
 
 // Performance optimizations
 mix.disableNotifications();
