@@ -1,0 +1,21 @@
+// @if($agents->count())
+// <div class="mb-4">
+//     <label class="form-label fw-semibold small text-uppercase text-secondary">
+//         Assign To
+//         <span class="text-muted fw-normal text-lowercase">(optional — hold Ctrl / Cmd to select multiple)</span>
+//     </label>
+//     <select name="agent_ids[]" multiple
+//             class="form-select @error('agent_ids') is-invalid @enderror"
+//             style="min-height:110px;">
+//         @foreach($agents as $agent)
+//             <option value="{{ $agent->user_id }}"
+//                 {{ collect(old('agent_ids', []))->contains($agent->user_id) ? 'selected' : '' }}>
+//                 {{ $agent->full_name }} — {{ $agent->role?->ur_name ?? '' }}
+//             </option>
+//         @endforeach
+//     </select>
+//     @error('agent_ids')
+//         <div class="invalid-feedback">{{ $message }}</div>
+//     @enderror
+// </div>
+// @endif

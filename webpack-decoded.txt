@@ -1,0 +1,1988 @@
+﻿i Compiling Mix
+ΓêÜ Mix: Compiled with some errors in 25.96s
+PublicPath: [1m/[39m[22m
+assets by status 5.83 MiB [1m[32m[cached][39m[22m 11 assets
+Entrypoint [1m/js/app[39m[22m = 6 assets
+chunk {[1m[33m13[39m[22m} (runtime: ../../../js/app) [1m[32massets/css/layout.css[39m[22m (assets/css/layout) (id hint: styles-public\assets\css\layout) 49.3 KiB ={[1m[33m43[39m[22m}= ={[1m[33m252[39m[22m}= ={[1m[33m324[39m[22m}= ={[1m[33m451[39m[22m}= ={[1m[33m847[39m[22m}= [1m[33m[initial][39m[22m [1m[33msplit chunk (cache group: styles-public\assets\css\layout) (name: assets/css/layout)[39m[22m
+  > D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\js\app.js [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m /js/app
+  css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[8].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[8].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[8].use[3]![1m./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m 49.3 KiB {[1m[33m13[39m[22m} [depth 1] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m[36m[used exports unknown][39m[22m
+    [1m[33mModuleConcatenation bailout: Module Concatenation is not implemented for CssModule[39m[22m
+    unknown [1m[36mnull[39m[22m [673] [1m[35m./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m [1m[36m[39m[22m
+chunk {[1m[33m43[39m[22m} (runtime: ../../../js/app) [1m[32massets/css/components.css[39m[22m (assets/css/components) (id hint: styles-public\assets\css\components) 439 KiB ={[1m[33m13[39m[22m}= ={[1m[33m252[39m[22m}= ={[1m[33m324[39m[22m}= ={[1m[33m451[39m[22m}= ={[1m[33m847[39m[22m}= [1m[33m[initial][39m[22m [1m[33msplit chunk (cache group: styles-public\assets\css\components) (name: assets/css/components)[39m[22m
+  > D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\js\app.js [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m /js/app
+  css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[7].use[3]![1m./resources/scss/layouts/layout_2/compile/components.scss[39m[22m 439 KiB {[1m[33m43[39m[22m} [depth 1] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m[36m[used exports unknown][39m[22m
+    [1m[33mModuleConcatenation bailout: Module Concatenation is not implemented for CssModule[39m[22m
+    unknown [1m[36mnull[39m[22m [785] [1m[35m./resources/scss/layouts/layout_2/compile/components.scss[39m[22m [1m[36m[39m[22m
+chunk {[1m[33m252[39m[22m} (runtime: ../../../js/app) [1m[32mcss/app.css[39m[22m (css/app) (id hint: styles-public\css\app) 297 KiB ={[1m[33m13[39m[22m}= ={[1m[33m43[39m[22m}= ={[1m[33m324[39m[22m}= ={[1m[33m451[39m[22m}= ={[1m[33m847[39m[22m}= [1m[33m[initial][39m[22m [1m[33msplit chunk (cache group: styles-public\css\app) (name: css/app)[39m[22m
+  > D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\js\app.js [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m /js/app
+  css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]![1m./node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m 275 KiB {[1m[33m252[39m[22m} [depth 1] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m[36m[used exports unknown][39m[22m
+    [1m[33mModuleConcatenation bailout: Module Concatenation is not implemented for CssModule[39m[22m
+    unknown [1m[36mnull[39m[22m [767] [1m[35m./resources/css/app.css[39m[22m [1m[36m[39m[22m
+  css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]![1m./resources/css/app.css[39m[22m 22.3 KiB {[1m[33m252[39m[22m} [depth 1] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m[36m[used exports unknown][39m[22m
+    [1m[33mModuleConcatenation bailout: Module Concatenation is not implemented for CssModule[39m[22m
+    unknown [1m[36mnull[39m[22m [767] [1m[35m./resources/css/app.css[39m[22m [1m[36m[39m[22m
+chunk {[1m[33m324[39m[22m} (runtime: ../../../js/app) [1m[32massets/css/all.css[39m[22m (assets/css/all) (id hint: styles-public\assets\css\all) 1.05 MiB ={[1m[33m13[39m[22m}= ={[1m[33m43[39m[22m}= ={[1m[33m252[39m[22m}= ={[1m[33m451[39m[22m}= ={[1m[33m847[39m[22m}= [1m[33m[initial][39m[22m [1m[33msplit chunk (cache group: styles-public\assets\css\all) (name: assets/css/all)[39m[22m
+  > D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\js\app.js [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m /js/app
+  css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[3]![1m./resources/scss/layouts/layout_2/compile/all.scss[39m[22m 1.05 MiB {[1m[33m324[39m[22m} [depth 1] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m[36m[used exports unknown][39m[22m
+    [1m[33mModuleConcatenation bailout: Module Concatenation is not implemented for CssModule[39m[22m
+    unknown [1m[36mnull[39m[22m [844] [1m[35m./resources/scss/layouts/layout_2/compile/all.scss[39m[22m [1m[36m[39m[22m
+chunk {[1m[33m451[39m[22m} (runtime: ../../../js/app) [1m[32massets/css/bootstrap.css[39m[22m (assets/css/bootstrap) (id hint: styles-public\assets\css\bootstrap) 434 KiB ={[1m[33m13[39m[22m}= ={[1m[33m43[39m[22m}= ={[1m[33m252[39m[22m}= ={[1m[33m324[39m[22m}= ={[1m[33m847[39m[22m}= [1m[33m[initial][39m[22m [1m[33msplit chunk (cache group: styles-public\assets\css\bootstrap) (name: assets/css/bootstrap)[39m[22m
+  > D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\js\app.js [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m /js/app
+  css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].use[3]![1m./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m 434 KiB {[1m[33m451[39m[22m} [depth 1] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+    [1m[36m[used exports unknown][39m[22m
+    [1m[33mModuleConcatenation bailout: Module Concatenation is not implemented for CssModule[39m[22m
+    unknown [1m[36mnull[39m[22m [103] [1m[35m./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m [1m[36m[39m[22m
+chunk {[1m[33m847[39m[22m} (runtime: ../../../js/app) [1m[32m/js/app.js[39m[22m (/js/app) 306 KiB (javascript) 3.24 KiB (runtime) ={[1m[33m13[39m[22m}= ={[1m[33m43[39m[22m}= ={[1m[33m252[39m[22m}= ={[1m[33m324[39m[22m}= ={[1m[33m451[39m[22m}= [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+  > D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\js\app.js [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m /js/app
+  > D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m /js/app
+  cacheable modules 306 KiB
+    modules by path [1m./resources/scss/layouts/layout_2/compile/*.scss[39m[22m 200 bytes
+      [1m./resources/scss/layouts/layout_2/compile/all.scss[39m[22m [844] 50 bytes {[1m[33m847[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[no exports used][39m[22m
+        entry [1m[36mD:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss[39m[22m [1m[35mnull[39m[22m /js/app [1m[36m[39m[22m
+      [1m./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m [103] 50 bytes {[1m[33m847[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[no exports used][39m[22m
+        entry [1m[36mD:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss[39m[22m [1m[35mnull[39m[22m /js/app [1m[36m[39m[22m
+      [1m./resources/scss/layouts/layout_2/compile/components.scss[39m[22m [785] 50 bytes {[1m[33m847[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[no exports used][39m[22m
+        entry [1m[36mD:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss[39m[22m [1m[35mnull[39m[22m /js/app [1m[36m[39m[22m
+      [1m./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m [673] 50 bytes {[1m[33m847[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[no exports used][39m[22m
+        entry [1m[36mD:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss[39m[22m [1m[35mnull[39m[22m /js/app [1m[36m[39m[22m
+    [1m./resources/css/app.css[39m[22m [767] 50 bytes {[1m[33m847[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[no exports used][39m[22m
+      entry [1m[36mD:\Richard.WWW\support_desk-main\resources\css\app.css[39m[22m [1m[35mnull[39m[22m /js/app [1m[36m[39m[22m
+    [1m./resources/js/app.js + 59 modules[39m[22m [443] 306 KiB {[1m[33m847[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[no exports used][39m[22m
+      entry [1m[36mD:\Richard.WWW\support_desk-main\resources\js\app.js[39m[22m [1m[35mnull[39m[22m /js/app [1m[36m[39m[22m
+  runtime modules 3.24 KiB
+    [1mwebpack/runtime/chunk loaded[39m[22m 953 bytes {[1m[33m847[39m[22m} [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[used exports unknown][39m[22m
+    [1mwebpack/runtime/define property getters[39m[22m 313 bytes {[1m[33m847[39m[22m} [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[used exports unknown][39m[22m
+    [1mwebpack/runtime/hasOwnProperty shorthand[39m[22m 103 bytes {[1m[33m847[39m[22m} [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[used exports unknown][39m[22m
+    [1mwebpack/runtime/jsonp chunk loading[39m[22m 1.63 KiB {[1m[33m847[39m[22m} [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[used exports unknown][39m[22m
+    [1mwebpack/runtime/make namespace object[39m[22m 279 bytes {[1m[33m847[39m[22m} [1m[33m[code generated][39m[22m
+      [1m[36m[no exports][39m[22m
+      [1m[36m[used exports unknown][39m[22m
+  PublicPath: [1m/[39m[22m
+  Entrypoint [1mchild[39m[22m =
+  chunk {[1m[33m615[39m[22m} (runtime: child) (child) 1.09 MiB (javascript) 997 bytes (runtime) [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+    > !!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[5].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[5].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[5].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss [1m[39m[22m child
+    runtime modules 997 bytes
+      [1mwebpack/runtime/compat get default export[39m[22m 302 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/define property getters[39m[22m 313 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/hasOwnProperty shorthand[39m[22m 103 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/make namespace object[39m[22m 279 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+    cacheable modules 1.09 MiB
+      ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[3]![1m./resources/scss/layouts/layout_2/compile/all.scss[39m[22m [390] 1.09 MiB {[1m[33m615[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[exports: default][39m[22m
+        [1m[33mStatement (VariableDeclaration) with side effects in source code at 3:0-84[39m[22m
+        [1m[33mModuleConcatenation bailout: Module uses module.id[39m[22m
+        entry [1m[36m!!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[5].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[5].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[5].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss[39m[22m [1m[35mnull[39m[22m child [1m[36m[39m[22m
+        [1m[36mnull[39m[22m [1m[35mnull[39m[22m [1m[36mused as library export[39m[22m
+      [1m./node_modules/css-loader/dist/runtime/api.js[39m[22m [314] 1.57 KiB {[1m[33m615[39m[22m} [depth 1] [1m[36m[dependent][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+        [1m[33mCommonJS bailout: module.exports is used directly at 9:0-14[39m[22m
+        [1m[33mStatement (ExpressionStatement) with side effects in source code at 9:0-66:2[39m[22m
+        [1m[33mModuleConcatenation bailout: Module is not an ECMAScript module[39m[22m
+        harmony side effect evaluation [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [390] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[3]!./resources/scss/layouts/layout_2/compile/all.scss[39m[22m 2:0-101 [1m[36m[39m[22m
+        harmony import specifier [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [390] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[3]!./resources/scss/layouts/layout_2/compile/all.scss[39m[22m 3:30-57 [1m[36m[39m[22m
+        cjs self exports reference [1m[36mnull[39m[22m [314] [1m[35m./node_modules/css-loader/dist/runtime/api.js[39m[22m 9:0-14 [1m[36m[39m[22m
+    
+
+  [1mLOG from ./node_modules/sass-loader/dist/cjs.js sass-loader ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[5].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[5].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[5].use[3]!./resources/scss/layouts/layout_2/compile/all.scss[39m[22m
+  <w> [1m[33mDeprecation The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/legacy-js-api[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 3:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 4:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 5:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 12:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$value"): $value; else: $arg)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:55              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$key"): $key; else: if($arg == "$value", $value, $arg))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:30              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($l1 > $l2): divide($l1 + 0.05, $l2 + 0.05); else: divide($l2 + 0.05, $l1 + 0.05))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 177:11             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass(divide($value, 255) < 0.03928): divide(divide($value, 255), 12.92); else: nth($_luminance-list, $value + 1))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 191:13             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($weight > 0): shade-color($color, $weight); else: tint-color($color, -$weight))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 217:11             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 207:11             tint-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 79:12              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 212:11             shade-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 84:12              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:30              -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:51              -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.compatible instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 13:20              -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation red() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "red", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:17                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation green() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "green", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:37                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation blue() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "blue", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:59                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 919:41  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 1188:46  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9                    root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Passing percentage units to the global abs() function is deprecated.[39m[22m
+  <w> [1m[33mIn the future, this will emit a CSS abs() function to be resolved by the browser.[39m[22m
+  <w> [1m[33mTo preserve current behavior: math.abs(100%)[39m[22m
+  <w> [1m[33mTo emit a CSS abs() now: abs(#{100%})[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/abs-percent[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\vendor\_rfs.scss 57:14             divide()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_grid.scss 59:12            row-cols()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_grid.scss 85:13            @content[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_breakpoints.scss 68:5      media-breakpoint-up()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_grid.scss 72:5             make-grid-columns()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_grid.scss 32:3                    @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 34:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation $weight: Passing a number without unit % (100) is deprecated.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mTo preserve current behavior: $weight * 1%[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/function-units[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 201:11             opaque()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_table-variants.scss 4:28   table-variant()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_tables.scss 149:3                 @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 35:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Passing percentage units to the global abs() function is deprecated.[39m[22m
+  <w> [1m[33mIn the future, this will emit a CSS abs() function to be resolved by the browser.[39m[22m
+  <w> [1m[33mTo preserve current behavior: math.abs(30%)[39m[22m
+  <w> [1m[33mTo emit a CSS abs() now: abs(#{30%})[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/abs-percent[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_alert.scss 66:66                  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 48:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 2:9         root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation $weight: Passing a number without unit % (10) is deprecated.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mTo preserve current behavior: $weight * 1%[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/function-units[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 201:11                       opaque()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_table-variants.scss 5:27    @content[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_color-scheme.scss 8:5       color-scheme()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_table-variants.scss 4:3     table-dark-variant()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\_tables.scss 263:5                  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap_limitless.scss 33:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 3:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation $weight: Passing a number without unit % (5) is deprecated.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mTo preserve current behavior: $weight * 1%[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/function-units[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 201:11                       opaque()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_table-variants.scss 5:27    @content[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_color-scheme.scss 8:5       color-scheme()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_table-variants.scss 4:3     table-dark-variant()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\_tables.scss 263:5                  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap_limitless.scss 33:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 3:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation $weight: Passing a number without unit % (25) is deprecated.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mTo preserve current behavior: $weight * 1%[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/function-units[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 201:11                       opaque()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_table-variants.scss 5:27    @content[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_color-scheme.scss 8:5       color-scheme()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_table-variants.scss 4:3     table-dark-variant()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\_tables.scss 263:5                  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap_limitless.scss 33:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 3:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Passing percentage units to the global abs() function is deprecated.[39m[22m
+  <w> [1m[33mIn the future, this will emit a CSS abs() function to be resolved by the browser.[39m[22m
+  <w> [1m[33mTo preserve current behavior: math.abs(50%)[39m[22m
+  <w> [1m[33mTo emit a CSS abs() now: abs(#{50%})[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/abs-percent[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\_alert.scss 76:70                   @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap_limitless.scss 46:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 3:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Passing percentage units to the global abs() function is deprecated.[39m[22m
+  <w> [1m[33mIn the future, this will emit a CSS abs() function to be resolved by the browser.[39m[22m
+  <w> [1m[33mTo preserve current behavior: math.abs(-90%)[39m[22m
+  <w> [1m[33mTo emit a CSS abs() now: abs(#{-90%})[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/abs-percent[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\_list-group.scss 38:88              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap_limitless.scss 47:9  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\all.scss 3:9                   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33m566 repetitive deprecation warnings omitted.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+
+  [1mLOG from webpack.Compiler[39m[22m
+  <t> [1m[35mmake hook: 20731.6328 ms[39m[22m
+  <t> [1m[35mfinish make hook: 0.0222 ms[39m[22m
+  <t> [1m[35mfinish compilation: 0.4026 ms[39m[22m
+  <t> [1m[35mseal compilation: 7.1175 ms[39m[22m
+  <t> [1m[35mafterCompile hook: 0.0284 ms[39m[22m
+
+  [1mLOG from webpack.Compilation[39m[22m
+  <t> [1m[35mcompute affected modules: 0.0038 ms[39m[22m
+  <t> [1m[35mfinish modules: 0.2906 ms[39m[22m
+  <t> [1m[35mreport dependency errors and warnings: 0.0629 ms[39m[22m
+  <t> [1m[35moptimize dependencies: 0.2838 ms[39m[22m
+  <t> [1m[35mcreate chunks: 0.3425 ms[39m[22m
+  <t> [1m[35mcompute affected modules with chunk graph: 0.0065 ms[39m[22m
+  <t> [1m[35moptimize: 1.0675 ms[39m[22m
+      [1m2 modules hashed, 0 from cache (1 variants per module in average)[39m[22m
+  <t> [1m[35mmodule hashing: 0.297 ms[39m[22m
+      [1m100% code generated (2 generated, 0 from cache)[39m[22m
+  <t> [1m[35mcode generation: 0.7277 ms[39m[22m
+  <t> [1m[35mruntime requirements.modules: 0.1201 ms[39m[22m
+  <t> [1m[35mruntime requirements.chunks: 0.1168 ms[39m[22m
+  <t> [1m[35mruntime requirements.entries: 0.361 ms[39m[22m
+  <t> [1m[35mruntime requirements: 0.6607 ms[39m[22m
+  <t> [1m[35mhashing: initialize hash: 0.0132 ms[39m[22m
+  <t> [1m[35mhashing: hash warnings: 0.004 ms[39m[22m
+  <t> [1m[35mhashing: sort chunks: 0.0354 ms[39m[22m
+  <t> [1m[35mhashing: hash runtime modules: 0.336 ms[39m[22m
+  <t> [1m[35mhashing: hash chunks: 0.7308 ms[39m[22m
+  <t> [1m[35mhashing: hash digest: 0.0347 ms[39m[22m
+  <t> [1m[35mhashing: process full hash modules: 0.0029 ms[39m[22m
+  <t> [1m[35mhashing: 1.235 ms[39m[22m
+      [1m100% code generated (4 generated, 0 from cache)[39m[22m
+  <t> [1m[35mrecord hash: 0.0204 ms[39m[22m
+  <t> [1m[35mmodule assets: 0.0217 ms[39m[22m
+  <t> [1m[35mcreate chunk assets: 0.633 ms[39m[22m
+  <t> [1m[35mprocess assets: 1.4263 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyExportsPlugin[39m[22m
+  <t> [1m[35mrestore cached provided exports: 0.043 ms[39m[22m
+  <t> [1m[35mfigure out provided exports: 0.0751 ms[39m[22m
+      [1m50% of exports of modules have been determined (1 no declared exports, 1 not cached, 0 flagged uncacheable, 0 from cache, 0 from mem cache, 0 additional calculations due to dependencies)[39m[22m
+  <t> [1m[35mstore provided exports into cache: 0.0263 ms[39m[22m
+
+  [1mLOG from webpack.InnerGraphPlugin[39m[22m
+  <t> [1m[35minfer dependency usage: 0.0522 ms[39m[22m
+
+  [1mLOG from webpack.SideEffectsFlagPlugin[39m[22m
+  <t> [1m[35mupdate dependencies: 0.0053 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyUsagePlugin[39m[22m
+  <t> [1m[35minitialize exports usage: 0.0412 ms[39m[22m
+  <t> [1m[35mtrace exports usage in graph: 0.1504 ms[39m[22m
+
+  [1mLOG from webpack.buildChunkGraph[39m[22m
+  <t> [1m[35mvisitModules: prepare: 0.0231 ms[39m[22m
+  <t> [1m[35mvisitModules: visiting: 0.0991 ms[39m[22m
+      [1m4 queue items processed (2 blocks)[39m[22m
+      [1m0 chunk groups connected[39m[22m
+      [1m0 chunk groups processed for merging (0 module sets, 0 forked, 0 + 0 modules forked, 0 + 0 modules merged into fork, 0 resulting modules)[39m[22m
+      [1m0 chunk group info updated (0 already connected chunk groups reconnected)[39m[22m
+  <t> [1m[35mvisitModules: 0.1769 ms[39m[22m
+  <t> [1m[35mconnectChunkGroups: 0.0026 ms[39m[22m
+  <t> [1m[35mcleanup: 0.0013 ms[39m[22m
+
+  [1mLOG from webpack.ModuleConcatenationPlugin[39m[22m
+  <t> [1m[35mselect relevant modules: 0.0184 ms[39m[22m
+  <t> [1m[35msort relevant modules: 0.0014 ms[39m[22m
+  <t> [1m[35mfind modules to concatenate: 0.0023 ms[39m[22m
+  <t> [1m[35msort concat configurations: 0.0009 ms[39m[22m
+  <t> [1m[35mcreate concatenated modules: 0.0099 ms[39m[22m
+  + 3 hidden lines
+
+  [1mLOG from webpack.FileSystemInfo[39m[22m
+      [1m2 new snapshots created[39m[22m
+      [1m0% root snapshot uncached (0 / 0)[39m[22m
+      [1m0% children snapshot uncached (0 / 0)[39m[22m
+      [1m0 entries tested[39m[22m
+      [1mFile info in cache: 193 timestamps 193 hashes 193 timestamp hash combinations[39m[22m
+      [1mFile timestamp hash combination snapshot optimization: 0% (0/193) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+      [1mDirectory info in cache: 0 timestamps 0 hashes 0 timestamp hash combinations[39m[22m
+      [1mManaged items info in cache: 0 items[39m[22m
+
+  [1m[33mWARNING[39m[22m in [1mDefinePlugin
+  [1m[31mConflicting[39m[22m[1m values for 'process.env.NODE_ENV'[39m[22m
+  '"development"' !== '"production"'
+  Error: DefinePlugin
+  Conflicting values for 'process.env.NODE_ENV'
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:657:24
+      at Array.forEach (<anonymous>)
+      at walkDefinitionsForValues (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:648:31)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:678:5
+      at _next43 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:36:1)
+      at _next21 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:97:1)
+      at Hook.eval [as call] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:143:1)
+      at Hook.CALL_DELEGATE [as _call] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:16:14)
+      at Compiler.newCompilation (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1139:26)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1183:29
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+      at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+      at Compiler.compile (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1178:28)
+      at Compiler.runAsChild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:574:8)
+      at Object.pitch (D:\Richard.WWW\support_desk-main\node_modules\mini-css-extract-plugin\dist\loader.js:286:17)
+      at LOADER_EXECUTION (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:215:14)
+      at runSyncOrAsync (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:216:5)
+      at D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:325:4
+      at handleResult (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:30:2)
+      at loadLoader (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:68:9)
+      at iteratePitchingLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:316:10)
+      at runLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:525:2)
+      at NormalModule._doBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:905:3)
+      at NormalModule.build (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1079:15)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1374:12
+      at NormalModule.needBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1405:32)
+      at Compilation._buildModule (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1355:10)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:305:10
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:6:1)
+      at AsyncQueue._startProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:295:26)
+      at AsyncQueue._ensureProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:282:12)
+      at process.processImmediate (node:internal/timers:504:21)
+
+  Child [1mmini-css-extract-plugin D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[5].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[5].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[5].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\all.scss[39m[22m compiled with [1m[33m1 warning[39m[22m (46f5f655d9436bd8)
+
+  PublicPath: [1m/[39m[22m
+  Entrypoint [1mchild[39m[22m =
+  chunk {[1m[33m615[39m[22m} (runtime: child) (child) 457 KiB (javascript) 997 bytes (runtime) [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+    > !!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[6].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[6].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[6].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss [1m[39m[22m child
+    runtime modules 997 bytes
+      [1mwebpack/runtime/compat get default export[39m[22m 302 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/define property getters[39m[22m 313 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/hasOwnProperty shorthand[39m[22m 103 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/make namespace object[39m[22m 279 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+    cacheable modules 457 KiB
+      ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].use[3]![1m./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m [858] 456 KiB {[1m[33m615[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[exports: default][39m[22m
+        [1m[33mStatement (VariableDeclaration) with side effects in source code at 3:0-84[39m[22m
+        [1m[33mModuleConcatenation bailout: Module uses module.id[39m[22m
+        entry [1m[36m!!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[6].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[6].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[6].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss[39m[22m [1m[35mnull[39m[22m child [1m[36m[39m[22m
+        [1m[36mnull[39m[22m [1m[35mnull[39m[22m [1m[36mused as library export[39m[22m
+      [1m./node_modules/css-loader/dist/runtime/api.js[39m[22m [314] 1.57 KiB {[1m[33m615[39m[22m} [depth 1] [1m[36m[dependent][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+        [1m[33mCommonJS bailout: module.exports is used directly at 9:0-14[39m[22m
+        [1m[33mStatement (ExpressionStatement) with side effects in source code at 9:0-66:2[39m[22m
+        [1m[33mModuleConcatenation bailout: Module is not an ECMAScript module[39m[22m
+        harmony side effect evaluation [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [858] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].use[3]!./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m 2:0-101 [1m[36m[39m[22m
+        harmony import specifier [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [858] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].use[3]!./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m 3:30-57 [1m[36m[39m[22m
+        cjs self exports reference [1m[36mnull[39m[22m [314] [1m[35m./node_modules/css-loader/dist/runtime/api.js[39m[22m 9:0-14 [1m[36m[39m[22m
+    
+
+  [1mLOG from ./node_modules/sass-loader/dist/cjs.js sass-loader ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[6].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[6].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[6].use[3]!./resources/scss/layouts/layout_2/compile/bootstrap.scss[39m[22m
+  <w> [1m[33mDeprecation The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/legacy-js-api[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 12:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 13:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 14:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$value"): $value; else: $arg)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:55              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$key"): $key; else: if($arg == "$value", $value, $arg))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:30              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($l1 > $l2): divide($l1 + 0.05, $l2 + 0.05); else: divide($l2 + 0.05, $l1 + 0.05))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 177:11             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass(divide($value, 255) < 0.03928): divide(divide($value, 255), 12.92); else: nth($_luminance-list, $value + 1))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 191:13             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($weight > 0): shade-color($color, $weight); else: tint-color($color, -$weight))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 217:11             @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 17:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 207:11             tint-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 79:12              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 212:11             shade-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 84:12              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:30              -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:51              -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.compatible instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 13:20              -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 18:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation red() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "red", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:17                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation green() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "green", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:37                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation blue() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "blue", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:59                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 919:41  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9            root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 1188:46  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 22:9             root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Passing percentage units to the global abs() function is deprecated.[39m[22m
+  <w> [1m[33mIn the future, this will emit a CSS abs() function to be resolved by the browser.[39m[22m
+  <w> [1m[33mTo preserve current behavior: math.abs(100%)[39m[22m
+  <w> [1m[33mTo emit a CSS abs() now: abs(#{100%})[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/abs-percent[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\vendor\_rfs.scss 57:14             divide()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_grid.scss 59:12            row-cols()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_grid.scss 85:13            @content[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_breakpoints.scss 68:5      media-breakpoint-up()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_grid.scss 72:5             make-grid-columns()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_grid.scss 32:3                    @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 34:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation $weight: Passing a number without unit % (100) is deprecated.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mTo preserve current behavior: $weight * 1%[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/function-units[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 201:11             opaque()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\mixins\_table-variants.scss 4:28   table-variant()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_tables.scss 149:3                 @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 35:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Passing percentage units to the global abs() function is deprecated.[39m[22m
+  <w> [1m[33mIn the future, this will emit a CSS abs() function to be resolved by the browser.[39m[22m
+  <w> [1m[33mTo preserve current behavior: math.abs(30%)[39m[22m
+  <w> [1m[33mTo emit a CSS abs() now: abs(#{30%})[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/abs-percent[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_alert.scss 66:66                  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\bootstrap.scss 48:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33m389 repetitive deprecation warnings omitted.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+
+  [1mLOG from webpack.Compiler[39m[22m
+  <t> [1m[35mmake hook: 20689.4863 ms[39m[22m
+  <t> [1m[35mfinish make hook: 0.0472 ms[39m[22m
+  <t> [1m[35mfinish compilation: 0.4156 ms[39m[22m
+  <t> [1m[35mseal compilation: 6.8425 ms[39m[22m
+  <t> [1m[35mafterCompile hook: 0.0894 ms[39m[22m
+
+  [1mLOG from webpack.Compilation[39m[22m
+  <t> [1m[35mcompute affected modules: 0.0023 ms[39m[22m
+  <t> [1m[35mfinish modules: 0.3464 ms[39m[22m
+  <t> [1m[35mreport dependency errors and warnings: 0.0461 ms[39m[22m
+  <t> [1m[35moptimize dependencies: 0.3075 ms[39m[22m
+  <t> [1m[35mcreate chunks: 0.2295 ms[39m[22m
+  <t> [1m[35mcompute affected modules with chunk graph: 0.002 ms[39m[22m
+  <t> [1m[35moptimize: 0.7177 ms[39m[22m
+      [1m2 modules hashed, 0 from cache (1 variants per module in average)[39m[22m
+  <t> [1m[35mmodule hashing: 0.3 ms[39m[22m
+      [1m100% code generated (2 generated, 0 from cache)[39m[22m
+  <t> [1m[35mcode generation: 0.6053 ms[39m[22m
+  <t> [1m[35mruntime requirements.modules: 0.2033 ms[39m[22m
+  <t> [1m[35mruntime requirements.chunks: 0.1252 ms[39m[22m
+  <t> [1m[35mruntime requirements.entries: 0.4605 ms[39m[22m
+  <t> [1m[35mruntime requirements: 0.8411 ms[39m[22m
+  <t> [1m[35mhashing: initialize hash: 0.0069 ms[39m[22m
+  <t> [1m[35mhashing: hash warnings: 0.0023 ms[39m[22m
+  <t> [1m[35mhashing: sort chunks: 0.0215 ms[39m[22m
+  <t> [1m[35mhashing: hash runtime modules: 0.3137 ms[39m[22m
+  <t> [1m[35mhashing: hash chunks: 0.7338 ms[39m[22m
+  <t> [1m[35mhashing: hash digest: 0.0602 ms[39m[22m
+  <t> [1m[35mhashing: process full hash modules: 0.0024 ms[39m[22m
+  <t> [1m[35mhashing: 1.2056 ms[39m[22m
+      [1m100% code generated (4 generated, 0 from cache)[39m[22m
+  <t> [1m[35mrecord hash: 0.0469 ms[39m[22m
+  <t> [1m[35mmodule assets: 0.0239 ms[39m[22m
+  <t> [1m[35mcreate chunk assets: 0.8971 ms[39m[22m
+  <t> [1m[35mprocess assets: 1.1513 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyExportsPlugin[39m[22m
+  <t> [1m[35mrestore cached provided exports: 0.0269 ms[39m[22m
+  <t> [1m[35mfigure out provided exports: 0.03 ms[39m[22m
+      [1m50% of exports of modules have been determined (1 no declared exports, 1 not cached, 0 flagged uncacheable, 0 from cache, 0 from mem cache, 0 additional calculations due to dependencies)[39m[22m
+  <t> [1m[35mstore provided exports into cache: 0.0257 ms[39m[22m
+
+  [1mLOG from webpack.InnerGraphPlugin[39m[22m
+  <t> [1m[35minfer dependency usage: 0.1381 ms[39m[22m
+
+  [1mLOG from webpack.SideEffectsFlagPlugin[39m[22m
+  <t> [1m[35mupdate dependencies: 0.021 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyUsagePlugin[39m[22m
+  <t> [1m[35minitialize exports usage: 0.0112 ms[39m[22m
+  <t> [1m[35mtrace exports usage in graph: 0.1835 ms[39m[22m
+
+  [1mLOG from webpack.buildChunkGraph[39m[22m
+  <t> [1m[35mvisitModules: prepare: 0.0361 ms[39m[22m
+  <t> [1m[35mvisitModules: visiting: 0.0836 ms[39m[22m
+      [1m4 queue items processed (2 blocks)[39m[22m
+      [1m0 chunk groups connected[39m[22m
+      [1m0 chunk groups processed for merging (0 module sets, 0 forked, 0 + 0 modules forked, 0 + 0 modules merged into fork, 0 resulting modules)[39m[22m
+      [1m0 chunk group info updated (0 already connected chunk groups reconnected)[39m[22m
+  <t> [1m[35mvisitModules: 0.1194 ms[39m[22m
+  <t> [1m[35mconnectChunkGroups: 0.0022 ms[39m[22m
+  <t> [1m[35mcleanup: 0.001 ms[39m[22m
+
+  [1mLOG from webpack.ModuleConcatenationPlugin[39m[22m
+  <t> [1m[35mselect relevant modules: 0.0152 ms[39m[22m
+  <t> [1m[35msort relevant modules: 0.0014 ms[39m[22m
+  <t> [1m[35mfind modules to concatenate: 0.0014 ms[39m[22m
+  <t> [1m[35msort concat configurations: 0.001 ms[39m[22m
+  <t> [1m[35mcreate concatenated modules: 0.0066 ms[39m[22m
+  + 3 hidden lines
+
+  [1mLOG from webpack.FileSystemInfo[39m[22m
+      [1m2 new snapshots created[39m[22m
+      [1m0% root snapshot uncached (0 / 0)[39m[22m
+      [1m0% children snapshot uncached (0 / 0)[39m[22m
+      [1m0 entries tested[39m[22m
+      [1mFile info in cache: 98 timestamps 98 hashes 98 timestamp hash combinations[39m[22m
+      [1mFile timestamp hash combination snapshot optimization: 0% (0/98) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+      [1mDirectory info in cache: 0 timestamps 0 hashes 0 timestamp hash combinations[39m[22m
+      [1mManaged items info in cache: 0 items[39m[22m
+
+  [1m[33mWARNING[39m[22m in [1mDefinePlugin
+  [1m[31mConflicting[39m[22m[1m values for 'process.env.NODE_ENV'[39m[22m
+  '"development"' !== '"production"'
+  Error: DefinePlugin
+  Conflicting values for 'process.env.NODE_ENV'
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:657:24
+      at Array.forEach (<anonymous>)
+      at walkDefinitionsForValues (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:648:31)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:678:5
+      at _next43 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:36:1)
+      at _next21 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:97:1)
+      at Hook.eval [as call] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:143:1)
+      at Hook.CALL_DELEGATE [as _call] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:16:14)
+      at Compiler.newCompilation (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1139:26)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1183:29
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+      at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+      at Compiler.compile (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1178:28)
+      at Compiler.runAsChild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:574:8)
+      at Object.pitch (D:\Richard.WWW\support_desk-main\node_modules\mini-css-extract-plugin\dist\loader.js:286:17)
+      at LOADER_EXECUTION (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:215:14)
+      at runSyncOrAsync (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:216:5)
+      at D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:325:4
+      at handleResult (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:30:2)
+      at loadLoader (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:68:9)
+      at iteratePitchingLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:316:10)
+      at runLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:525:2)
+      at NormalModule._doBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:905:3)
+      at NormalModule.build (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1079:15)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1374:12
+      at NormalModule.needBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1405:32)
+      at Compilation._buildModule (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1355:10)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:305:10
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:6:1)
+      at AsyncQueue._startProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:295:26)
+      at AsyncQueue._ensureProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:282:12)
+      at process.processImmediate (node:internal/timers:504:21)
+
+  Child [1mmini-css-extract-plugin D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[6].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[6].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[6].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\bootstrap.scss[39m[22m compiled with [1m[33m1 warning[39m[22m (07dc68ae8d0f7b1a)
+
+  PublicPath: [1m/[39m[22m
+  Entrypoint [1mchild[39m[22m =
+  chunk {[1m[33m615[39m[22m} (runtime: child) (child) 460 KiB (javascript) 997 bytes (runtime) [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+    > !!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[7].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[7].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[7].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss [1m[39m[22m child
+    runtime modules 997 bytes
+      [1mwebpack/runtime/compat get default export[39m[22m 302 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/define property getters[39m[22m 313 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/hasOwnProperty shorthand[39m[22m 103 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/make namespace object[39m[22m 279 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+    cacheable modules 460 KiB
+      ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[7].use[3]![1m./resources/scss/layouts/layout_2/compile/components.scss[39m[22m [721] 459 KiB {[1m[33m615[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[exports: default][39m[22m
+        [1m[33mStatement (VariableDeclaration) with side effects in source code at 3:0-84[39m[22m
+        [1m[33mModuleConcatenation bailout: Module uses module.id[39m[22m
+        entry [1m[36m!!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[7].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[7].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[7].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss[39m[22m [1m[35mnull[39m[22m child [1m[36m[39m[22m
+        [1m[36mnull[39m[22m [1m[35mnull[39m[22m [1m[36mused as library export[39m[22m
+      [1m./node_modules/css-loader/dist/runtime/api.js[39m[22m [314] 1.57 KiB {[1m[33m615[39m[22m} [depth 1] [1m[36m[dependent][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+        [1m[33mCommonJS bailout: module.exports is used directly at 9:0-14[39m[22m
+        [1m[33mStatement (ExpressionStatement) with side effects in source code at 9:0-66:2[39m[22m
+        [1m[33mModuleConcatenation bailout: Module is not an ECMAScript module[39m[22m
+        harmony side effect evaluation [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [721] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[7].use[3]!./resources/scss/layouts/layout_2/compile/components.scss[39m[22m 2:0-101 [1m[36m[39m[22m
+        harmony import specifier [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [721] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[7].use[3]!./resources/scss/layouts/layout_2/compile/components.scss[39m[22m 3:30-57 [1m[36m[39m[22m
+        cjs self exports reference [1m[36mnull[39m[22m [314] [1m[35m./node_modules/css-loader/dist/runtime/api.js[39m[22m 9:0-14 [1m[36m[39m[22m
+    
+
+  [1mLOG from ./node_modules/sass-loader/dist/cjs.js sass-loader ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[7].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[7].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[7].use[3]!./resources/scss/layouts/layout_2/compile/components.scss[39m[22m
+  <w> [1m[33mDeprecation The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/legacy-js-api[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 14:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 19:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 20:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$value"): $value; else: $arg)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:55               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 19:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$key"): $key; else: if($arg == "$value", $value, $arg))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:30               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 19:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($l1 > $l2): divide($l1 + 0.05, $l2 + 0.05); else: divide($l2 + 0.05, $l1 + 0.05))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 177:11              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 19:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass(divide($value, 255) < 0.03928): divide(divide($value, 255), 12.92); else: nth($_luminance-list, $value + 1))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 191:13              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 19:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($weight > 0): shade-color($color, $weight); else: tint-color($color, -$weight))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 217:11              @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 19:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 207:11              tint-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 79:12               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 20:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 212:11              shade-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 84:12               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 20:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:30               -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 20:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:51               -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 20:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.compatible instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 13:20               -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1               @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 20:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation red() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "red", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:17                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 24:9           root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation green() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "green", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:37                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 24:9           root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation blue() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "blue", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:59                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 24:9           root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 919:41  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 24:9           root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 1188:46  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 24:9            root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation $weight: Passing a number without unit % (100) is deprecated.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mTo preserve current behavior: $weight * 1%[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/function-units[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 201:11               opaque()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 175:18               contrast-ratio()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 159:22               color-contrast()[39m[22m
+  <w> [1m[33mresources\scss\bootstrap_limitless\mixins\_buttons.scss 10:11  button-variant()[39m[22m
+  <w> [1m[33mresources\scss\vendor\forms\editors\_trumbowyg.scss 584:9      @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\components.scss 66:9   root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33m308 repetitive deprecation warnings omitted.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+
+  [1mLOG from webpack.Compiler[39m[22m
+  <t> [1m[35mmake hook: 20708.9786 ms[39m[22m
+  <t> [1m[35mfinish make hook: 0.0171 ms[39m[22m
+  <t> [1m[35mfinish compilation: 0.3021 ms[39m[22m
+  <t> [1m[35mseal compilation: 6.2521 ms[39m[22m
+  <t> [1m[35mafterCompile hook: 0.05 ms[39m[22m
+
+  [1mLOG from webpack.Compilation[39m[22m
+  <t> [1m[35mcompute affected modules: 0.0023 ms[39m[22m
+  <t> [1m[35mfinish modules: 0.257 ms[39m[22m
+  <t> [1m[35mreport dependency errors and warnings: 0.0223 ms[39m[22m
+  <t> [1m[35moptimize dependencies: 0.1727 ms[39m[22m
+  <t> [1m[35mcreate chunks: 0.2891 ms[39m[22m
+  <t> [1m[35mcompute affected modules with chunk graph: 0.002 ms[39m[22m
+  <t> [1m[35moptimize: 0.4963 ms[39m[22m
+      [1m2 modules hashed, 0 from cache (1 variants per module in average)[39m[22m
+  <t> [1m[35mmodule hashing: 0.2307 ms[39m[22m
+      [1m100% code generated (2 generated, 0 from cache)[39m[22m
+  <t> [1m[35mcode generation: 0.4207 ms[39m[22m
+  <t> [1m[35mruntime requirements.modules: 0.0772 ms[39m[22m
+  <t> [1m[35mruntime requirements.chunks: 0.0784 ms[39m[22m
+  <t> [1m[35mruntime requirements.entries: 0.3352 ms[39m[22m
+  <t> [1m[35mruntime requirements: 0.5315 ms[39m[22m
+  <t> [1m[35mhashing: initialize hash: 0.0071 ms[39m[22m
+  <t> [1m[35mhashing: hash warnings: 0.002 ms[39m[22m
+  <t> [1m[35mhashing: sort chunks: 0.019 ms[39m[22m
+  <t> [1m[35mhashing: hash runtime modules: 0.2735 ms[39m[22m
+  <t> [1m[35mhashing: hash chunks: 0.8283 ms[39m[22m
+  <t> [1m[35mhashing: hash digest: 0.0606 ms[39m[22m
+  <t> [1m[35mhashing: process full hash modules: 0.0041 ms[39m[22m
+  <t> [1m[35mhashing: 1.2955 ms[39m[22m
+      [1m100% code generated (4 generated, 0 from cache)[39m[22m
+  <t> [1m[35mrecord hash: 0.0218 ms[39m[22m
+  <t> [1m[35mmodule assets: 0.0442 ms[39m[22m
+  <t> [1m[35mcreate chunk assets: 1.2593 ms[39m[22m
+  <t> [1m[35mprocess assets: 0.9524 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyExportsPlugin[39m[22m
+  <t> [1m[35mrestore cached provided exports: 0.0346 ms[39m[22m
+  <t> [1m[35mfigure out provided exports: 0.0319 ms[39m[22m
+      [1m50% of exports of modules have been determined (1 no declared exports, 1 not cached, 0 flagged uncacheable, 0 from cache, 0 from mem cache, 0 additional calculations due to dependencies)[39m[22m
+  <t> [1m[35mstore provided exports into cache: 0.0265 ms[39m[22m
+
+  [1mLOG from webpack.InnerGraphPlugin[39m[22m
+  <t> [1m[35minfer dependency usage: 0.0794 ms[39m[22m
+
+  [1mLOG from webpack.SideEffectsFlagPlugin[39m[22m
+  <t> [1m[35mupdate dependencies: 0.0064 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyUsagePlugin[39m[22m
+  <t> [1m[35minitialize exports usage: 0.0057 ms[39m[22m
+  <t> [1m[35mtrace exports usage in graph: 0.1119 ms[39m[22m
+
+  [1mLOG from webpack.buildChunkGraph[39m[22m
+  <t> [1m[35mvisitModules: prepare: 0.0425 ms[39m[22m
+  <t> [1m[35mvisitModules: visiting: 0.1341 ms[39m[22m
+      [1m4 queue items processed (2 blocks)[39m[22m
+      [1m0 chunk groups connected[39m[22m
+      [1m0 chunk groups processed for merging (0 module sets, 0 forked, 0 + 0 modules forked, 0 + 0 modules merged into fork, 0 resulting modules)[39m[22m
+      [1m0 chunk group info updated (0 already connected chunk groups reconnected)[39m[22m
+  <t> [1m[35mvisitModules: 0.1812 ms[39m[22m
+  <t> [1m[35mconnectChunkGroups: 0.0021 ms[39m[22m
+  <t> [1m[35mcleanup: 0.0008 ms[39m[22m
+
+  [1mLOG from webpack.ModuleConcatenationPlugin[39m[22m
+  <t> [1m[35mselect relevant modules: 0.0147 ms[39m[22m
+  <t> [1m[35msort relevant modules: 0.0008 ms[39m[22m
+  <t> [1m[35mfind modules to concatenate: 0.0012 ms[39m[22m
+  <t> [1m[35msort concat configurations: 0.0006 ms[39m[22m
+  <t> [1m[35mcreate concatenated modules: 0.0044 ms[39m[22m
+  + 3 hidden lines
+
+  [1mLOG from webpack.FileSystemInfo[39m[22m
+      [1m2 new snapshots created[39m[22m
+      [1m0% root snapshot uncached (0 / 0)[39m[22m
+      [1m0% children snapshot uncached (0 / 0)[39m[22m
+      [1m0 entries tested[39m[22m
+      [1mFile info in cache: 101 timestamps 101 hashes 101 timestamp hash combinations[39m[22m
+      [1mFile timestamp hash combination snapshot optimization: 0% (0/101) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+      [1mDirectory info in cache: 0 timestamps 0 hashes 0 timestamp hash combinations[39m[22m
+      [1mManaged items info in cache: 0 items[39m[22m
+
+  [1m[33mWARNING[39m[22m in [1mDefinePlugin
+  [1m[31mConflicting[39m[22m[1m values for 'process.env.NODE_ENV'[39m[22m
+  '"development"' !== '"production"'
+  Error: DefinePlugin
+  Conflicting values for 'process.env.NODE_ENV'
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:657:24
+      at Array.forEach (<anonymous>)
+      at walkDefinitionsForValues (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:648:31)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:678:5
+      at _next43 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:36:1)
+      at _next21 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:97:1)
+      at Hook.eval [as call] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:143:1)
+      at Hook.CALL_DELEGATE [as _call] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:16:14)
+      at Compiler.newCompilation (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1139:26)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1183:29
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+      at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+      at Compiler.compile (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1178:28)
+      at Compiler.runAsChild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:574:8)
+      at Object.pitch (D:\Richard.WWW\support_desk-main\node_modules\mini-css-extract-plugin\dist\loader.js:286:17)
+      at LOADER_EXECUTION (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:215:14)
+      at runSyncOrAsync (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:216:5)
+      at D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:325:4
+      at handleResult (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:30:2)
+      at loadLoader (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:68:9)
+      at iteratePitchingLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:316:10)
+      at runLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:525:2)
+      at NormalModule._doBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:905:3)
+      at NormalModule.build (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1079:15)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1374:12
+      at NormalModule.needBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1405:32)
+      at Compilation._buildModule (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1355:10)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:305:10
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:6:1)
+      at AsyncQueue._startProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:295:26)
+      at AsyncQueue._ensureProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:282:12)
+      at process.processImmediate (node:internal/timers:504:21)
+
+  Child [1mmini-css-extract-plugin D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[7].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[7].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[7].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\components.scss[39m[22m compiled with [1m[33m1 warning[39m[22m (18939eb6a21ebe86)
+
+  PublicPath: [1m/[39m[22m
+  Entrypoint [1mchild[39m[22m =
+  chunk {[1m[33m615[39m[22m} (runtime: child) (child) 53 KiB (javascript) 997 bytes (runtime) [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+    > !!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[8].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[8].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[8].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss [1m[39m[22m child
+    runtime modules 997 bytes
+      [1mwebpack/runtime/compat get default export[39m[22m 302 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/define property getters[39m[22m 313 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/hasOwnProperty shorthand[39m[22m 103 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/make namespace object[39m[22m 279 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+    cacheable modules 53 KiB
+      ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[8].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[8].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[8].use[3]![1m./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m [384] 51.4 KiB {[1m[33m615[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[exports: default][39m[22m
+        [1m[33mStatement (VariableDeclaration) with side effects in source code at 3:0-84[39m[22m
+        [1m[33mModuleConcatenation bailout: Module uses module.id[39m[22m
+        entry [1m[36m!!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[8].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[8].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[8].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss[39m[22m [1m[35mnull[39m[22m child [1m[36m[39m[22m
+        [1m[36mnull[39m[22m [1m[35mnull[39m[22m [1m[36mused as library export[39m[22m
+      [1m./node_modules/css-loader/dist/runtime/api.js[39m[22m [314] 1.57 KiB {[1m[33m615[39m[22m} [depth 1] [1m[36m[dependent][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+        [1m[33mCommonJS bailout: module.exports is used directly at 9:0-14[39m[22m
+        [1m[33mStatement (ExpressionStatement) with side effects in source code at 9:0-66:2[39m[22m
+        [1m[33mModuleConcatenation bailout: Module is not an ECMAScript module[39m[22m
+        harmony side effect evaluation [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [384] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[8].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[8].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[8].use[3]!./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m 2:0-101 [1m[36m[39m[22m
+        harmony import specifier [1m[36m../../../../../node_modules/css-loader/dist/runtime/api.js[39m[22m [384] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[8].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[8].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[8].use[3]!./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m 3:30-57 [1m[36m[39m[22m
+        cjs self exports reference [1m[36mnull[39m[22m [314] [1m[35m./node_modules/css-loader/dist/runtime/api.js[39m[22m 9:0-14 [1m[36m[39m[22m
+    
+
+  [1mLOG from ./node_modules/sass-loader/dist/cjs.js sass-loader ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[8].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[8].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[8].use[3]!./resources/scss/layouts/layout_2/compile/layout.scss[39m[22m
+  <w> [1m[33mDeprecation The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/legacy-js-api[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 10:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 11:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 12:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$value"): $value; else: $arg)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:55           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($arg == "$key"): $key; else: if($arg == "$value", $value, $arg))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 58:30           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($l1 > $l2): divide($l1 + 0.05, $l2 + 0.05); else: divide($l2 + 0.05, $l1 + 0.05))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 177:11          @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass(divide($value, 255) < 0.03928): divide(divide($value, 255), 12.92); else: nth($_luminance-list, $value + 1))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 191:13          @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation The Sass if() syntax is deprecated in favor of the modern CSS syntax.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mSuggestion: if(sass($weight > 0): shade-color($color, $weight); else: tint-color($color, -$weight))[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/if-function[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 217:11          @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 15:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 207:11          tint-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 79:12           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse color.mix instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 212:11          shade-color()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 84:12           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:30           -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.unit instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 11:51           -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.[39m[22m
+  <w> [1m[33mUse math.compatible instead.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info and automated migrator: https://sass-lang.com/d/import[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 13:20           -assert-ascending()[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_variables.scss 441:1           @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 16:9  root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation red() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "red", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:17                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 20:9               root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation green() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "green", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:37                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 20:9               root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation blue() is deprecated. Suggestion:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.channel($color, "blue", $space: rgb)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\_bootstrap\_functions.scss 37:59                        to-rgb()[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 556:31  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 20:9               root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 919:41  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 20:9               root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mDeprecation lighten() is deprecated. Suggestions:[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mcolor.scale($color, $lightness: 5.7823129252%)[39m[22m
+  <w> [1m[33mcolor.adjust($color, $lightness: 5%)[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mMore info: https://sass-lang.com/d/color-functions[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\variables\_variables-core.scss 1188:46  @import[39m[22m
+  <w> [1m[33mresources\scss\layouts\layout_2\compile\layout.scss 20:9                root stylesheet[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33m211 repetitive deprecation warnings omitted.[39m[22m
+  <w> [1m[33m[39m[22m
+  <w> [1m[33mnull[39m[22m
+
+  [1mLOG from webpack.Compiler[39m[22m
+  <t> [1m[35mmake hook: 20623.292699999998 ms[39m[22m
+  <t> [1m[35mfinish make hook: 0.1416 ms[39m[22m
+  <t> [1m[35mfinish compilation: 6.4327 ms[39m[22m
+  <t> [1m[35mseal compilation: 42.7505 ms[39m[22m
+  <t> [1m[35mafterCompile hook: 0.155 ms[39m[22m
+
+  [1mLOG from webpack.Compilation[39m[22m
+  <t> [1m[35mcompute affected modules: 0.4019 ms[39m[22m
+  <t> [1m[35mfinish modules: 4.6569 ms[39m[22m
+  <t> [1m[35mreport dependency errors and warnings: 0.729 ms[39m[22m
+  <t> [1m[35moptimize dependencies: 3.8512 ms[39m[22m
+  <t> [1m[35mcreate chunks: 3.136 ms[39m[22m
+  <t> [1m[35mcompute affected modules with chunk graph: 0.1641 ms[39m[22m
+  <t> [1m[35moptimize: 5.1977 ms[39m[22m
+      [1m2 modules hashed, 0 from cache (1 variants per module in average)[39m[22m
+  <t> [1m[35mmodule hashing: 3.424 ms[39m[22m
+      [1m100% code generated (2 generated, 0 from cache)[39m[22m
+  <t> [1m[35mcode generation: 6.9826 ms[39m[22m
+  <t> [1m[35mruntime requirements.modules: 0.4647 ms[39m[22m
+  <t> [1m[35mruntime requirements.chunks: 0.6778 ms[39m[22m
+  <t> [1m[35mruntime requirements.entries: 2.1058 ms[39m[22m
+  <t> [1m[35mruntime requirements: 3.7258 ms[39m[22m
+  <t> [1m[35mhashing: initialize hash: 0.011 ms[39m[22m
+  <t> [1m[35mhashing: hash warnings: 0.0043 ms[39m[22m
+  <t> [1m[35mhashing: sort chunks: 0.126 ms[39m[22m
+  <t> [1m[35mhashing: hash runtime modules: 0.9648 ms[39m[22m
+  <t> [1m[35mhashing: hash chunks: 3.4739 ms[39m[22m
+  <t> [1m[35mhashing: hash digest: 0.2377 ms[39m[22m
+  <t> [1m[35mhashing: process full hash modules: 0.0039 ms[39m[22m
+  <t> [1m[35mhashing: 5.4635 ms[39m[22m
+      [1m100% code generated (4 generated, 0 from cache)[39m[22m
+  <t> [1m[35mrecord hash: 0.1304 ms[39m[22m
+  <t> [1m[35mmodule assets: 0.2234 ms[39m[22m
+  <t> [1m[35mcreate chunk assets: 5.0355 ms[39m[22m
+  <t> [1m[35mprocess assets: 2.2549 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyExportsPlugin[39m[22m
+  <t> [1m[35mrestore cached provided exports: 0.9443 ms[39m[22m
+  <t> [1m[35mfigure out provided exports: 1.024 ms[39m[22m
+      [1m50% of exports of modules have been determined (1 no declared exports, 1 not cached, 0 flagged uncacheable, 0 from cache, 0 from mem cache, 0 additional calculations due to dependencies)[39m[22m
+  <t> [1m[35mstore provided exports into cache: 0.443 ms[39m[22m
+
+  [1mLOG from webpack.InnerGraphPlugin[39m[22m
+  <t> [1m[35minfer dependency usage: 0.0323 ms[39m[22m
+
+  [1mLOG from webpack.SideEffectsFlagPlugin[39m[22m
+  <t> [1m[35mupdate dependencies: 0.5184 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyUsagePlugin[39m[22m
+  <t> [1m[35minitialize exports usage: 0.1253 ms[39m[22m
+  <t> [1m[35mtrace exports usage in graph: 1.4431 ms[39m[22m
+
+  [1mLOG from webpack.buildChunkGraph[39m[22m
+  <t> [1m[35mvisitModules: prepare: 0.2061 ms[39m[22m
+  <t> [1m[35mvisitModules: visiting: 0.8127 ms[39m[22m
+      [1m4 queue items processed (2 blocks)[39m[22m
+      [1m0 chunk groups connected[39m[22m
+      [1m0 chunk groups processed for merging (0 module sets, 0 forked, 0 + 0 modules forked, 0 + 0 modules merged into fork, 0 resulting modules)[39m[22m
+      [1m0 chunk group info updated (0 already connected chunk groups reconnected)[39m[22m
+  <t> [1m[35mvisitModules: 1.7891 ms[39m[22m
+  <t> [1m[35mconnectChunkGroups: 0.1029 ms[39m[22m
+  <t> [1m[35mcleanup: 0.0398 ms[39m[22m
+
+  [1mLOG from webpack.ModuleConcatenationPlugin[39m[22m
+  <t> [1m[35mselect relevant modules: 0.1416 ms[39m[22m
+  <t> [1m[35msort relevant modules: 0.002 ms[39m[22m
+  <t> [1m[35mfind modules to concatenate: 0.0034 ms[39m[22m
+  <t> [1m[35msort concat configurations: 0.0008 ms[39m[22m
+  <t> [1m[35mcreate concatenated modules: 0.0706 ms[39m[22m
+  + 3 hidden lines
+
+  [1mLOG from webpack.FileSystemInfo[39m[22m
+      [1m2 new snapshots created[39m[22m
+      [1m0% root snapshot uncached (0 / 0)[39m[22m
+      [1m0% children snapshot uncached (0 / 0)[39m[22m
+      [1m0 entries tested[39m[22m
+      [1mFile info in cache: 51 timestamps 51 hashes 51 timestamp hash combinations[39m[22m
+      [1mFile timestamp hash combination snapshot optimization: 0% (0/51) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+      [1mDirectory info in cache: 0 timestamps 0 hashes 0 timestamp hash combinations[39m[22m
+      [1mManaged items info in cache: 0 items[39m[22m
+
+  [1m[33mWARNING[39m[22m in [1mDefinePlugin
+  [1m[31mConflicting[39m[22m[1m values for 'process.env.NODE_ENV'[39m[22m
+  '"development"' !== '"production"'
+  Error: DefinePlugin
+  Conflicting values for 'process.env.NODE_ENV'
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:657:24
+      at Array.forEach (<anonymous>)
+      at walkDefinitionsForValues (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:648:31)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:678:5
+      at _next43 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:36:1)
+      at _next21 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:97:1)
+      at Hook.eval [as call] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:143:1)
+      at Hook.CALL_DELEGATE [as _call] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:16:14)
+      at Compiler.newCompilation (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1139:26)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1183:29
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+      at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+      at Compiler.compile (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1178:28)
+      at Compiler.runAsChild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:574:8)
+      at Object.pitch (D:\Richard.WWW\support_desk-main\node_modules\mini-css-extract-plugin\dist\loader.js:286:17)
+      at LOADER_EXECUTION (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:215:14)
+      at runSyncOrAsync (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:216:5)
+      at D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:325:4
+      at handleResult (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:30:2)
+      at loadLoader (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:68:9)
+      at iteratePitchingLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:316:10)
+      at runLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:525:2)
+      at NormalModule._doBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:905:3)
+      at NormalModule.build (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1079:15)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1374:12
+      at NormalModule.needBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1405:32)
+      at Compilation._buildModule (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1355:10)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:305:10
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:6:1)
+      at AsyncQueue._startProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:295:26)
+      at AsyncQueue._ensureProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:282:12)
+      at process.processImmediate (node:internal/timers:504:21)
+
+  Child [1mmini-css-extract-plugin D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[8].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[8].use[2]!D:\Richard.WWW\support_desk-main\node_modules\sass-loader\dist\cjs.js??ruleSet[1].rules[8].use[3]!D:\Richard.WWW\support_desk-main\resources\scss\layouts\layout_2\compile\layout.scss[39m[22m compiled with [1m[33m1 warning[39m[22m (44d27ba8fb181e9b)
+
+  PublicPath: [1m/[39m[22m
+  Entrypoint [1mchild[39m[22m =
+  chunk {[1m[33m615[39m[22m} (runtime: child) (child) 308 KiB (javascript) 997 bytes (runtime) [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+    > !!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[9].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[9].use[2]!D:\Richard.WWW\support_desk-main\resources\css\app.css [1m[39m[22m child
+    runtime modules 997 bytes
+      [1mwebpack/runtime/compat get default export[39m[22m 302 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/define property getters[39m[22m 313 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/hasOwnProperty shorthand[39m[22m 103 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+      [1mwebpack/runtime/make namespace object[39m[22m 279 bytes {[1m[33m615[39m[22m} [1m[33m[code generated][39m[22m
+        [1m[36m[no exports][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+    cacheable modules 308 KiB
+      ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]![1m./node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m [279] 283 KiB {[1m[33m615[39m[22m} [depth 1] [1m[36m[dependent][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[exports: default][39m[22m
+        [1m[36m[all exports used][39m[22m
+        [1m[33mStatement (VariableDeclaration) with side effects in source code at 3:0-84[39m[22m
+        [1m[33mModuleConcatenation bailout: Module uses module.id[39m[22m
+        harmony side effect evaluation [1m[36m-!../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!../../node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m [761] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./resources/css/app.css[39m[22m 3:0-250 [1m[36m[39m[22m
+        harmony import specifier [1m[36m-!../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!../../node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!../../node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m [761] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./resources/css/app.css[39m[22m 5:26-59 [1m[36m[39m[22m
+      ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]![1m./resources/css/app.css[39m[22m [761] 24.2 KiB {[1m[33m615[39m[22m} [depth 0] [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[exports: default][39m[22m
+        [1m[33mStatement (VariableDeclaration) with side effects in source code at 4:0-84[39m[22m
+        [1m[33mModuleConcatenation bailout: Module uses module.id[39m[22m
+        entry [1m[36m!!D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[9].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[9].use[2]!D:\Richard.WWW\support_desk-main\resources\css\app.css[39m[22m [1m[35mnull[39m[22m child [1m[36m[39m[22m
+        [1m[36mnull[39m[22m [1m[35mnull[39m[22m [1m[36mused as library export[39m[22m
+      [1m./node_modules/css-loader/dist/runtime/api.js[39m[22m [314] 1.57 KiB {[1m[33m615[39m[22m} [depth 1] [1m[36m[dependent][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+        [1m[36m[used exports unknown][39m[22m
+        [1m[33mCommonJS bailout: module.exports is used directly at 9:0-14[39m[22m
+        [1m[33mStatement (ExpressionStatement) with side effects in source code at 9:0-66:2[39m[22m
+        [1m[33mModuleConcatenation bailout: Module is not an ECMAScript module[39m[22m
+        from origin [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m
+          harmony side effect evaluation [1m[36m../../../css-loader/dist/runtime/api.js[39m[22m [279] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m 2:0-82 [1m[36m[39m[22m
+          harmony import specifier [1m[36m../../../css-loader/dist/runtime/api.js[39m[22m [279] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./node_modules/bootstrap/dist/css/bootstrap.min.css[39m[22m 3:30-57 [1m[36m[39m[22m
+        from origin [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./resources/css/app.css[39m[22m
+          harmony side effect evaluation [1m[36m../../node_modules/css-loader/dist/runtime/api.js[39m[22m [761] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./resources/css/app.css[39m[22m 2:0-92 [1m[36m[39m[22m
+          harmony import specifier [1m[36m../../node_modules/css-loader/dist/runtime/api.js[39m[22m [761] [1m[35m./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[9].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[9].use[2]!./resources/css/app.css[39m[22m 4:30-57 [1m[36m[39m[22m
+        cjs self exports reference [1m[36mnull[39m[22m [314] [1m[35m./node_modules/css-loader/dist/runtime/api.js[39m[22m 9:0-14 [1m[36m[39m[22m
+    
+
+  [1mLOG from webpack.Compiler[39m[22m
+  <t> [1m[35mmake hook: 21710.4727 ms[39m[22m
+  <t> [1m[35mfinish make hook: 0.0206 ms[39m[22m
+  <t> [1m[35mfinish compilation: 0.5146 ms[39m[22m
+  <t> [1m[35mseal compilation: 6.5579 ms[39m[22m
+  <t> [1m[35mafterCompile hook: 0.043 ms[39m[22m
+
+  [1mLOG from webpack.Compilation[39m[22m
+  <t> [1m[35mcompute affected modules: 0.0357 ms[39m[22m
+  <t> [1m[35mfinish modules: 0.2743 ms[39m[22m
+  <t> [1m[35mreport dependency errors and warnings: 0.1823 ms[39m[22m
+  <t> [1m[35moptimize dependencies: 0.4453 ms[39m[22m
+  <t> [1m[35mcreate chunks: 0.3171 ms[39m[22m
+  <t> [1m[35mcompute affected modules with chunk graph: 0.0029 ms[39m[22m
+  <t> [1m[35moptimize: 1.1813 ms[39m[22m
+      [1m3 modules hashed, 0 from cache (1 variants per module in average)[39m[22m
+  <t> [1m[35mmodule hashing: 0.313 ms[39m[22m
+      [1m100% code generated (3 generated, 0 from cache)[39m[22m
+  <t> [1m[35mcode generation: 0.6397 ms[39m[22m
+  <t> [1m[35mruntime requirements.modules: 0.0664 ms[39m[22m
+  <t> [1m[35mruntime requirements.chunks: 0.0687 ms[39m[22m
+  <t> [1m[35mruntime requirements.entries: 0.272 ms[39m[22m
+  <t> [1m[35mruntime requirements: 0.4438 ms[39m[22m
+  <t> [1m[35mhashing: initialize hash: 0.0111 ms[39m[22m
+  <t> [1m[35mhashing: hash warnings: 0.0047 ms[39m[22m
+  <t> [1m[35mhashing: sort chunks: 0.041 ms[39m[22m
+  <t> [1m[35mhashing: hash runtime modules: 0.2288 ms[39m[22m
+  <t> [1m[35mhashing: hash chunks: 0.8914 ms[39m[22m
+  <t> [1m[35mhashing: hash digest: 0.0371 ms[39m[22m
+  <t> [1m[35mhashing: process full hash modules: 0.0024 ms[39m[22m
+  <t> [1m[35mhashing: 1.2871 ms[39m[22m
+      [1m100% code generated (4 generated, 0 from cache)[39m[22m
+  <t> [1m[35mrecord hash: 0.014 ms[39m[22m
+  <t> [1m[35mmodule assets: 0.0335 ms[39m[22m
+  <t> [1m[35mcreate chunk assets: 0.5954 ms[39m[22m
+  <t> [1m[35mprocess assets: 0.6806 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyExportsPlugin[39m[22m
+  <t> [1m[35mrestore cached provided exports: 0.0317 ms[39m[22m
+  <t> [1m[35mfigure out provided exports: 0.0781 ms[39m[22m
+      [1m67% of exports of modules have been determined (1 no declared exports, 2 not cached, 0 flagged uncacheable, 0 from cache, 0 from mem cache, 0 additional calculations due to dependencies)[39m[22m
+  <t> [1m[35mstore provided exports into cache: 0.034 ms[39m[22m
+
+  [1mLOG from webpack.InnerGraphPlugin[39m[22m
+  <t> [1m[35minfer dependency usage: 0.145 ms[39m[22m
+
+  [1mLOG from webpack.SideEffectsFlagPlugin[39m[22m
+  <t> [1m[35mupdate dependencies: 0.036 ms[39m[22m
+
+  [1mLOG from webpack.FlagDependencyUsagePlugin[39m[22m
+  <t> [1m[35minitialize exports usage: 0.0116 ms[39m[22m
+  <t> [1m[35mtrace exports usage in graph: 0.329 ms[39m[22m
+
+  [1mLOG from webpack.buildChunkGraph[39m[22m
+  <t> [1m[35mvisitModules: prepare: 0.0319 ms[39m[22m
+  <t> [1m[35mvisitModules: visiting: 0.1176 ms[39m[22m
+      [1m6 queue items processed (3 blocks)[39m[22m
+      [1m0 chunk groups connected[39m[22m
+      [1m0 chunk groups processed for merging (0 module sets, 0 forked, 0 + 0 modules forked, 0 + 0 modules merged into fork, 0 resulting modules)[39m[22m
+      [1m0 chunk group info updated (0 already connected chunk groups reconnected)[39m[22m
+  <t> [1m[35mvisitModules: 0.1634 ms[39m[22m
+  <t> [1m[35mconnectChunkGroups: 0.0097 ms[39m[22m
+  <t> [1m[35mcleanup: 0.0017 ms[39m[22m
+
+  [1mLOG from webpack.ModuleConcatenationPlugin[39m[22m
+  <t> [1m[35mselect relevant modules: 0.0267 ms[39m[22m
+  <t> [1m[35msort relevant modules: 0.0009 ms[39m[22m
+  <t> [1m[35mfind modules to concatenate: 0.0014 ms[39m[22m
+  <t> [1m[35msort concat configurations: 0.0014 ms[39m[22m
+  <t> [1m[35mcreate concatenated modules: 0.0069 ms[39m[22m
+  + 3 hidden lines
+
+  [1mLOG from webpack.FileSystemInfo[39m[22m
+      [1m3 new snapshots created[39m[22m
+      [1m0% root snapshot uncached (0 / 0)[39m[22m
+      [1m0% children snapshot uncached (0 / 0)[39m[22m
+      [1m0 entries tested[39m[22m
+      [1mFile info in cache: 432 timestamps 421 hashes 421 timestamp hash combinations[39m[22m
+      [1mFile timestamp hash combination snapshot optimization: 35% (6/17) entries shared via 1 shared snapshots (1 times referenced)[39m[22m
+      [1mDirectory info in cache: 0 timestamps 0 hashes 85 timestamp hash combinations[39m[22m
+      [1mDirectory timestamp hash combination snapshot optimization: 0% (0/1) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+      [1mMissing items snapshot optimization: 0% (0/11) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+      [1mManaged items info in cache: 0 items[39m[22m
+
+  [1m[33mWARNING[39m[22m in [1mDefinePlugin
+  [1m[31mConflicting[39m[22m[1m values for 'process.env.NODE_ENV'[39m[22m
+  '"development"' !== '"production"'
+  Error: DefinePlugin
+  Conflicting values for 'process.env.NODE_ENV'
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:657:24
+      at Array.forEach (<anonymous>)
+      at walkDefinitionsForValues (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:648:31)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:678:5
+      at _next43 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:36:1)
+      at _next21 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:97:1)
+      at Hook.eval [as call] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:143:1)
+      at Hook.CALL_DELEGATE [as _call] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:16:14)
+      at Compiler.newCompilation (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1139:26)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1183:29
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+      at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+      at Compiler.compile (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1178:28)
+      at Compiler.runAsChild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:574:8)
+      at Object.pitch (D:\Richard.WWW\support_desk-main\node_modules\mini-css-extract-plugin\dist\loader.js:286:17)
+      at LOADER_EXECUTION (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:215:14)
+      at runSyncOrAsync (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:216:5)
+      at D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:325:4
+      at handleResult (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:30:2)
+      at loadLoader (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\loadLoader.js:68:9)
+      at iteratePitchingLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:316:10)
+      at runLoaders (D:\Richard.WWW\support_desk-main\node_modules\loader-runner\lib\LoaderRunner.js:525:2)
+      at NormalModule._doBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:905:3)
+      at NormalModule.build (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1079:15)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1374:12
+      at NormalModule.needBuild (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModule.js:1405:32)
+      at Compilation._buildModule (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:1355:10)
+      at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:305:10
+      at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:6:1)
+      at AsyncQueue._startProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:295:26)
+      at AsyncQueue._ensureProcessing (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\util\AsyncQueue.js:282:12)
+      at process.processImmediate (node:internal/timers:504:21)
+
+  Child [1mmini-css-extract-plugin D:\Richard.WWW\support_desk-main\node_modules\css-loader\dist\cjs.js??ruleSet[1].rules[9].use[1]!D:\Richard.WWW\support_desk-main\node_modules\postcss-loader\dist\cjs.js??ruleSet[1].rules[9].use[2]!D:\Richard.WWW\support_desk-main\resources\css\app.css[39m[22m compiled with [1m[33m1 warning[39m[22m (874e4b90b2b09cc5)
+
+[1mLOG from webpack.Compiler[39m[22m
+<t> [1m[35mmake hook: 21968.9181 ms[39m[22m
+<t> [1m[35mfinish make hook: 0.2229 ms[39m[22m
+<t> [1m[35mfinish compilation: 7.4753 ms[39m[22m
+<t> [1m[35mseal compilation: 3167.9638 ms[39m[22m
+<t> [1m[35mafterCompile hook: 0.1665 ms[39m[22m
+
+[1mLOG from webpack.Compilation[39m[22m
+<t> [1m[35mcompute affected modules: 0.003 ms[39m[22m
+<t> [1m[35mfinish modules: 5.4978 ms[39m[22m
+<t> [1m[35mreport dependency errors and warnings: 1.8891 ms[39m[22m
+<t> [1m[35moptimize dependencies: 3.5909 ms[39m[22m
+<t> [1m[35mcreate chunks: 1.5199 ms[39m[22m
+<t> [1m[35mcompute affected modules with chunk graph: 0.0044 ms[39m[22m
+<t> [1m[35moptimize: 18.5832 ms[39m[22m
+    [1m12 modules hashed, 0 from cache (0.17 variants per module in average)[39m[22m
+<t> [1m[35mmodule hashing: 4.3476 ms[39m[22m
+    [1m100% code generated (12 generated, 0 from cache)[39m[22m
+<t> [1m[35mcode generation: 129.0287 ms[39m[22m
+<t> [1m[35mruntime requirements.modules: 0.133 ms[39m[22m
+<t> [1m[35mruntime requirements.chunks: 0.2453 ms[39m[22m
+<t> [1m[35mruntime requirements.entries: 0.5203 ms[39m[22m
+<t> [1m[35mruntime requirements: 1.0001 ms[39m[22m
+<t> [1m[35mhashing: initialize hash: 0.016 ms[39m[22m
+<t> [1m[35mhashing: hash child compilations: 0.0143 ms[39m[22m
+<t> [1m[35mhashing: hash warnings: 0.0267 ms[39m[22m
+<t> [1m[35mhashing: hash errors: 0.0035 ms[39m[22m
+<t> [1m[35mhashing: sort chunks: 0.1157 ms[39m[22m
+<t> [1m[35mhashing: hash runtime modules: 1.4499 ms[39m[22m
+<t> [1m[35mhashing: hash chunks: 3.0522 ms[39m[22m
+<t> [1m[35mhashing: hash digest: 0.0273 ms[39m[22m
+<t> [1m[35mhashing: process full hash modules: 0.002 ms[39m[22m
+<t> [1m[35mhashing: 4.9806 ms[39m[22m
+    [1m100% code generated (5 generated, 0 from cache)[39m[22m
+<t> [1m[35mmodule assets: 0.1035 ms[39m[22m
+<t> [1m[35mcreate chunk assets: 4.8886 ms[39m[22m
+<t> [1m[35mprocess assets: 2998.6448 ms[39m[22m
+
+[1mLOG from webpack.FlagDependencyExportsPlugin[39m[22m
+<t> [1m[35mrestore cached provided exports: 0.2025 ms[39m[22m
+<t> [1m[35mfigure out provided exports: 4.1717 ms[39m[22m
+    [1m92% of exports of modules have been determined (6 no declared exports, 65 not cached, 0 flagged uncacheable, 0 from cache, 0 from mem cache, 6 additional calculations due to dependencies)[39m[22m
+<t> [1m[35mstore provided exports into cache: 0.29 ms[39m[22m
+
+[1mLOG from webpack.InnerGraphPlugin[39m[22m
+<t> [1m[35minfer dependency usage: 2.3353 ms[39m[22m
+
+[1mLOG from webpack.SideEffectsFlagPlugin[39m[22m
+<t> [1m[35mupdate dependencies: 1.0552 ms[39m[22m
+
+[1mLOG from webpack.FlagDependencyUsagePlugin[39m[22m
+<t> [1m[35minitialize exports usage: 0.0832 ms[39m[22m
+<t> [1m[35mtrace exports usage in graph: 2.0292 ms[39m[22m
+
+[1mLOG from webpack.buildChunkGraph[39m[22m
+<t> [1m[35mvisitModules: prepare: 0.6547 ms[39m[22m
+<t> [1m[35mvisitModules: visiting: 1.0052 ms[39m[22m
+    [1m146 queue items processed (71 blocks)[39m[22m
+    [1m0 chunk groups connected[39m[22m
+    [1m0 chunk groups processed for merging (0 module sets, 0 forked, 0 + 0 modules forked, 0 + 0 modules merged into fork, 0 resulting modules)[39m[22m
+    [1m0 chunk group info updated (0 already connected chunk groups reconnected)[39m[22m
+<t> [1m[35mvisitModules: 1.083 ms[39m[22m
+<t> [1m[35mconnectChunkGroups: 0.0025 ms[39m[22m
+<t> [1m[35mcleanup: 0.0009 ms[39m[22m
+
+[1mLOG from webpack.SplitChunksPlugin[39m[22m
+<t> [1m[35mprepare: 0.066 ms[39m[22m
+<t> [1m[35mmodules: 6.6446 ms[39m[22m
+<t> [1m[35mqueue: 0.7729 ms[39m[22m
+<t> [1m[35mmaxSize: 0.047 ms[39m[22m
+
+[1mLOG from webpack.ModuleConcatenationPlugin[39m[22m
+<t> [1m[35mselect relevant modules: 0.5841 ms[39m[22m
+<t> [1m[35msort relevant modules: 0.0824 ms[39m[22m
+<t> [1m[35mfind modules to concatenate: 3.1597 ms[39m[22m
+<t> [1m[35msort concat configurations: 0.0011 ms[39m[22m
+<t> [1m[35mcreate concatenated modules: 2.6006 ms[39m[22m
++ 3 hidden lines
+
+[1mLOG from webpack.FileSystemInfo[39m[22m
+    [1m65 new snapshots created[39m[22m
+    [1m0% root snapshot uncached (0 / 0)[39m[22m
+    [1m0% children snapshot uncached (0 / 0)[39m[22m
+    [1m0 entries tested[39m[22m
+    [1mFile info in cache: 421 timestamps 421 hashes 421 timestamp hash combinations[39m[22m
+    [1mFile timestamp hash combination snapshot optimization: 70% (342/490) entries shared via 4 shared snapshots (4 times referenced)[39m[22m
+    [1mDirectory info in cache: 0 timestamps 0 hashes 85 timestamp hash combinations[39m[22m
+    [1mDirectory timestamp hash combination snapshot optimization: 0% (0/1) entries shared via 0 shared snapshots (0 times referenced)[39m[22m
+    [1mManaged items info in cache: 6 items[39m[22m
+    [1mManaged items snapshot optimization: 12% (9/74) entries shared via 1 shared snapshots (2 times referenced)[39m[22m
+    [1mManaged files snapshot optimization: 35% (66/189) entries shared via 2 shared snapshots (4 times referenced)[39m[22m
+
+[1m[33mWARNING[39m[22m in [1mDefinePlugin
+[1m[31mConflicting[39m[22m[1m values for 'process.env.NODE_ENV'[39m[22m
+'"development"' !== '"production"'
+Error: DefinePlugin
+Conflicting values for 'process.env.NODE_ENV'
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:657:24
+    at Array.forEach (<anonymous>)
+    at walkDefinitionsForValues (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:648:31)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\DefinePlugin.js:678:5
+    at _next40 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:81:1)
+    at _next18 (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:189:1)
+    at Hook.eval [as call] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:19:10), <anonymous>:267:1)
+    at Hook.CALL_DELEGATE [as _call] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:16:14)
+    at Compiler.newCompilation (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1139:26)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1183:29
+    at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:22:1)
+    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+    at Compiler.compile (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1178:28)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:537:12
+    at Compiler.readRecords (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:1002:5)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:534:11
+    at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:22:1)
+    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:531:20
+    at Hook.eval [as callAsync] (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:23:1)
+    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\Hook.js:21:14)
+    at run (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:528:25)
+    at Compiler.run (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compiler.js:551:4)
+    at webpack (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\webpack.js:157:15)
+    at WebpackCLI.f [as webpack] (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\index.js:73:16)
+    at WebpackCLI.createCompiler (D:\Richard.WWW\support_desk-main\node_modules\webpack-cli\lib\webpack-cli.js:1789:29)
+    at async WebpackCLI.runWebpack (D:\Richard.WWW\support_desk-main\node_modules\webpack-cli\lib\webpack-cli.js:1890:20)
+    at async Command.<anonymous> (D:\Richard.WWW\support_desk-main\node_modules\webpack-cli\lib\webpack-cli.js:912:21)
+    at async Promise.all (index 1)
+    at async Command.<anonymous> (D:\Richard.WWW\support_desk-main\node_modules\webpack-cli\lib\webpack-cli.js:1372:13)
+
+[1m[31mERROR[39m[22m in [1m./resources/js/app.js[39m[22m [1m[32m1:0-21[39m[22m
+[1mModule [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './bootstrap' in 'D:\Richard.WWW\support_desk-main\resources\js'
+Did you miss the leading dot in 'resolve.extensions'? [1m[32mDid you mean '[".*",".wasm",".mjs",".js",".jsx",".json"]' instead of '["*",".wasm",".mjs",".js",".jsx",".json"]'?[39m[22m[1m[39m[22m
+resolve './bootstrap' in 'D:\Richard.WWW\support_desk-main\resources\js'
+  using description file: D:\Richard.WWW\support_desk-main\package.json (relative path: ./resources/js)
+    Field 'browser' doesn't contain a valid alias configuration
+    using description file: D:\Richard.WWW\support_desk-main\package.json (relative path: ./resources/js/bootstrap)
+      no extension
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap doesn't exist[39m[22m
+      *
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap* doesn't exist[39m[22m
+      .wasm
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap.wasm doesn't exist[39m[22m
+      .mjs
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap.mjs doesn't exist[39m[22m
+      .js
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap.js doesn't exist[39m[22m
+      .jsx
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap.jsx doesn't exist[39m[22m
+      .json
+        Field 'browser' doesn't contain a valid alias configuration
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap.json doesn't exist[39m[22m
+      as directory
+[1m[31m        D:\Richard.WWW\support_desk-main\resources\js\bootstrap doesn't exist[39m[22m
+ModuleNotFoundError: Module not found: Error: Can't resolve './bootstrap' in 'D:\Richard.WWW\support_desk-main\resources\js'
+Did you miss the leading dot in 'resolve.extensions'? Did you mean '[".*",".wasm",".mjs",".js",".jsx",".json"]' instead of '["*",".wasm",".mjs",".js",".jsx",".json"]'?
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\Compilation.js:2029:28
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:895:13
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:10:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:332:22
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:9:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:509:22
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:151:11
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:767:25
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:979:8
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:1109:5
+    at D:\Richard.WWW\support_desk-main\node_modules\neo-async\async.js:6883:13
+    at Array.<anonymous> (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:1084:14)
+    at arrayEachFunc (D:\Richard.WWW\support_desk-main\node_modules\neo-async\async.js:2517:19)
+    at Object.parallel (D:\Richard.WWW\support_desk-main\node_modules\neo-async\async.js:6858:9)
+    at NormalModuleFactory._resolveResourceErrorHints (D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:1007:12)
+    at D:\Richard.WWW\support_desk-main\node_modules\webpack\lib\NormalModuleFactory.js:939:18
+    at finishWithoutResolve (D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:945:11)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1034:14
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:27:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\DescriptionFilePlugin.js:94:43
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:27:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\DescriptionFilePlugin.js:94:43
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\Resolver.js:1111:5
+    at eval (eval at create (D:\Richard.WWW\support_desk-main\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)
+    at D:\Richard.WWW\support_desk-main\node_modules\enhanced-resolve\lib\DirectoryExistsPlugin.js:52:15
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+
+2026-05-26 [1m09:14:47[39m[22m: webpack 5.90.3 compiled with [1m[31m1 error[39m[22m and [1m[33m6 warnings[39m[22m in 25185 ms (c9bd71ee6af3921a)

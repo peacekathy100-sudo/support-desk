@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44" role="img" aria-label="Flaxem">
+  <rect width="180" height="44" rx="14" fill="#ffffff"/>
+  <path d="M18 28.5 30 8h18l-12 20.5H18Z" fill="#2563eb"/>
+  <path d="M25 29.5 37 10h12l-12 19.5H25Z" fill="#ffffff"/>
+  <path d="M126 8h18l-8 14h-18z" fill="#dc2626"/>
+  <path d="M132 21h12l-6 14h-12z" fill="#2563eb" opacity="0.92"/>
+  <text x="57" y="27" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#1d4ed8" letter-spacing="-0.4">Flaxem</text>
+</svg>
